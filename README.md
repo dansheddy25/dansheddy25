@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and software developpment
 - 🌱 I’m currently doing an intership as a data analyst 
 - 💞️ I’m looking to collaborate on analytics projects and software | web projects
-- 📫 How to reach me linkedin @linkedin.com/in/philip-shedrack-b244611a4
+- 📫 You can reach me  on linkedin @linkedin.com/in/philip-shedrack-b244611a4
 
 <!---
 dansheddy25/dansheddy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
