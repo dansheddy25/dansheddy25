@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dansheddy25
+- 👋 Hi, I’m Phiip Shedrack Danladi
 - 👀 I’m interested in data analytics and software developpment
 - 🌱 I’m currently doing an intership as a data analyst 
 - 💞️ I’m looking to collaborate on analytics projects and software | web projects
