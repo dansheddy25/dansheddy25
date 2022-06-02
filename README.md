@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Philip Shedrack</h1>
 <h3 align="center">A software Engineer graduate with the ability to understand problems, find and implement solutions through critical thinking and effective communication. Proven ability to to visualize and tell story with a dataset</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dansheddy25&label=Profile%20views&color=0e75b6&style=flat" alt="dansheddy25" /> </p>
+
+- 🔭 I’m currently working on [Netflix_Clone_Project](https://github.com/dansheddy25/netflix_Clone_Project)
 
 - 💬 Ask me about **Web developpent and Data Analytics**
 
 - 📫 How to reach me **philipshedrack5@gmail.com**
 
-- ⚡ Fun fact **I love travelling and socialising with new people**
+- ⚡ Fun fact **I love travelling, socialising with new people and community building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
